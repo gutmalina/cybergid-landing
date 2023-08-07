@@ -13,4 +13,5 @@
 * React-Alice-carousel
 
 ### Ссылки:
-* :mag_right: [Открыть проект](https://gutmalina.github.io/cybergid-landing/)
+* :airplane: [КиберГид - конструктор маршрутов](https://kibergid.ru/)
+* :rocket: [Landing КиберГид](https://gutmalina.github.io/cybergid-landing/)
