@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/cybergid-landing/static/css/main.d2291c18.css",
+    "main.js": "/cybergid-landing/static/js/main.0c30dfb5.js",
+    "static/media/card-info1_375.svg": "/cybergid-landing/static/media/card-info1_375.9ce136e913e6ce169225a3676b1b1b01.svg",
+    "static/media/About_img-mobile.svg": "/cybergid-landing/static/media/About_img-mobile.38f87de32403ca11b091.svg",
+    "static/media/card-info1_768.png": "/cybergid-landing/static/media/card-info1_768.0878896900376660a32f.png",
+    "static/media/About_img_desctop.png": "/cybergid-landing/static/media/About_img_desctop.c01fa6537ac58654aa4e.png",
+    "static/media/about_background.png": "/cybergid-landing/static/media/about_background.e064eaf5e48e23984e39.png",
+    "static/media/Banner_img_desctop.png": "/cybergid-landing/static/media/Banner_img_desctop.a626e6d8d7b6d83f5d21.png",
+    "static/media/card-info3_768.png": "/cybergid-landing/static/media/card-info3_768.0500caa63ba55b2da44e.png",
+    "static/media/background_try_it.png": "/cybergid-landing/static/media/background_try_it.14a4eb6d9bd99273effa.png",
+    "static/media/card-info3_375.svg": "/cybergid-landing/static/media/card-info3_375.d8d27a5dd4965b8c25e1f2f12394d429.svg",
+    "static/media/try_it_desctop.svg": "/cybergid-landing/static/media/try_it_desctop.039e795495e128005d8a.svg",
+    "static/media/Poppins-Medium.ttf": "/cybergid-landing/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/cybergid-landing/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Banner_img_mobile.png": "/cybergid-landing/static/media/Banner_img_mobile.a92864c4084b69d4bb38.png",
+    "static/media/card-carousel3.png": "/cybergid-landing/static/media/card-carousel3.a76cd00a06809be3211f.png",
+    "static/media/card-carousel1.png": "/cybergid-landing/static/media/card-carousel1.8353826ed8a0699355e9.png",
+    "static/media/card-carousel2.png": "/cybergid-landing/static/media/card-carousel2.0dd83ef8bba2b1c506c0.png",
+    "static/media/card-info2_768.png": "/cybergid-landing/static/media/card-info2_768.9ec5fae35a385a3f77cf.png",
+    "static/media/Manrope-SemiBold.ttf": "/cybergid-landing/static/media/Manrope-SemiBold.310f108cc524df0e5ffc.ttf",
+    "static/media/Manrope-Medium.ttf": "/cybergid-landing/static/media/Manrope-Medium.08894ccb04665d1a9d53.ttf",
+    "static/media/Try_it_mobile.png": "/cybergid-landing/static/media/Try_it_mobile.9e351659d24249f9c315.png",
+    "static/media/card-info2_375.svg": "/cybergid-landing/static/media/card-info2_375.f63f97c4fdb6ff8d8aef0f89c3c8c8e9.svg",
+    "index.html": "/cybergid-landing/index.html",
+    "main.d2291c18.css.map": "/cybergid-landing/static/css/main.d2291c18.css.map",
+    "main.0c30dfb5.js.map": "/cybergid-landing/static/js/main.0c30dfb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2291c18.css",
+    "static/js/main.0c30dfb5.js"
+  ]
+}
