@@ -1,7 +1,7 @@
 # Landing для проекта CyberGid
 
 <p padding="0" align="center">~~~~~~~~~~</p>
-<a  href="https://gutmalina.github.io/green-api/" target="_blank" align="center"><img src="./readme/videogift.gif" width="100%" alt="Демо"></a>
+<a  href="https://gutmalina.github.io/cybergid-landing/" target="_blank" align="center"><img src="./readme/videogift.gif" width="100%" alt="Демо"></a>
 <p padding="0" align="center">~~~~~~~~~~</p>
 
 
@@ -13,4 +13,4 @@
 * React-Alice-carousel
 
 ### Ссылки:
-* :mag_right: [Открыть проект](https://gutmalina.github.io/green-api/)
+* :mag_right: [Открыть проект](https://gutmalina.github.io/cybergid-landing/)

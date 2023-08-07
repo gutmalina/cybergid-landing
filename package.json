@@ -2,7 +2,7 @@
   "name": "cybergid-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gutmalina.github.io/green-api/",
+  "homepage": "https://gutmalina.github.io/cybergid-landing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
